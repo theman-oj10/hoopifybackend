@@ -1,0 +1,7 @@
+numpy
+torch
+ultralytics
+roboflow
+tensorflow
+opencv-python
+matplotlib
